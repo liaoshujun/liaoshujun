@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liaoshujun
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning software testing
+- 🏀 I’m interested in basketball
+- 👔 I’m a game testing engineer
 - 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me 2428289178(QQ)
 
